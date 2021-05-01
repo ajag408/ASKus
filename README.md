@@ -21,7 +21,7 @@
    Runtime for predictions takes approximately 1 hour for the steps described above.  You may see our printed graphs and numbers for our results without having to run it yourself.
 
 ### "Restore Test Data to Training Set and Train Model on Full Training Set" Section
-6. You can skip this section entirely, as it mimics what was done when training the 70% model above.  We have already saved the fully trained model on our Google Drive
+7. You can skip this section entirely, as it mimics what was done when training the 70% model above.  We have already saved the fully trained model on our Google Drive
 
 ### "Make Predictions on Kaggle Test Data" section
-7.  Run this section to see how we used our fully trained model to make dataset label predictions on the test data (4 unseen articles)
+8.  Run this section to see how we used our fully trained model to make dataset label predictions on the test data (4 unseen articles)
